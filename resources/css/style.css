@@ -39,3 +39,13 @@ h4{
   color: white;
 font-size: 18px
 }
+
+.footer{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+a{
+  color: white;
+}
